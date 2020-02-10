@@ -1,0 +1,6 @@
+
+Wsquid:S3252	"9Use static access with "org.openqa.selenium.By" for "id".(ıÑÁ8¢¸ë‚.
+Zsquid:S3252
+"<Use static access with "org.openqa.selenium.By" for "xpath".(û²ò‚8•¡¿ë‚.
+Wsquid:S3252"9Use static access with "org.openqa.selenium.By" for "id".(£§õË8 Ã²ë‚.
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(É‚ÛÃ

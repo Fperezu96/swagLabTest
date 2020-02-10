@@ -11,5 +11,4 @@ public class ConfirmarInformacionPage {
 	public static final Target CODIGO_POSTAL = Target.the("Codigo Postal").located(By.id("postal-code"));
 	public static final Target BTN_CONTINUAR = Target.the("Continuar").located(By.xpath("//*[@value='CONTINUE']"));
 
-
 }
