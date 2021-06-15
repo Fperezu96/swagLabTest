@@ -34,6 +34,9 @@ hs_err_pid*
 */out/
 
 # Gradle
+build/
+.gradle/
+.idea/
 */.gradle/
 #*/gradle/
 */build/
